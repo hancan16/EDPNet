@@ -2,6 +2,7 @@
 This is the official repository to the paper "EDPNet: An Efficient Dual Prototype Network for Motor Imagery Decoding"
 
 ## Abstract
+![image](https://github.com/hancan16/EDPNet/blob/main/figs/frameworkl.png)
 - We propose an end-to-end deep learning architecture for MI decoding, which is able to effectively extract discriminative spatial-spectral features and capture more comprehensive long-term temporal features.
 - To mitigate the intra-class variation of EEG signals and the small sample problem of MI tasks, we proposed a novel dual prototype learning approach to further enhance the generalization capability and recognition performance of the model.
 - We conduct experiments on three benchmark public datasets to evaluate the superiority of the proposed method against state-of-the-art (SOTA) MI decoding methods. Additionally, comprehensive ablation experiments have validated the effectiveness and interpretability of each module in our proposed method.
