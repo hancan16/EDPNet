@@ -1,5 +1,5 @@
 # EDPNet
-This is the official repository to the paper "EDPNet: An Efficient Dual Prototype Network for Motor Imagery Decoding"
+This is the official repository to the paper "[EDPNet: An Efficient Dual Prototype Network for Motor Imagery Decoding](https://arxiv.org/pdf/2407.03177v1)".
 
 ## Abstract
 ![image](https://github.com/hancan16/EDPNet/blob/main/figs/frameworkl.png)
@@ -13,6 +13,6 @@ This is the official repository to the paper "EDPNet: An Efficient Dual Prototyp
 
 ## Datasets
 In the following datasets we have used the official criteria for dividing the training and test sets:
-- [BCI_competition_IV 2a](https://www.bbci.de/competition/iv/) -acc 83.87%
-- [BCI_competition_IV 2b](https://www.bbci.de/competition/iv/) -acc 86.60%
-- [BCI_competition_III](https://bbci.de/competition/iii/desc_IVa.html) IVa -acc 80.98%
+- [BCI_competition_IV 2a](https://www.bbci.de/competition/iv/) -acc 84.11%
+- [BCI_competition_IV 2b](https://www.bbci.de/competition/iv/) -acc 86.65%
+- [BCI_competition_III](https://bbci.de/competition/iii/desc_IVa.html) IVa -acc 82.03%
