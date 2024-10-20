@@ -16,9 +16,12 @@ This is the official repository to the paper "[EDPNet: An Efficient Dual Prototy
 In the following datasets we have used the official criteria for dividing the training and test sets:
 - [BCI_competition_IV 2a](https://www.bbci.de/competition/iv/) -acc 84.11%
 - [BCI_competition_IV 2b](https://www.bbci.de/competition/iv/) -acc 86.65%
-- [BCI_competition_III](https://bbci.de/competition/iii/desc_IVa.html) IVa -acc 82.03%
+- [BCI_competition_III IVa](https://bbci.de/competition/iii/desc_IVa.html) -acc 82.03%
 
 ![image](https://github.com/hancan16/EDPNet/blob/main/figs/tsne.png)
+
+## Acknowledgments
+We are deeply grateful to Martin for providing clear and easily executable code in the [channel-attention](https://github.com/martinwimpff/channel-attention) repository. In our paper, we referenced the code and results from [channel-attention](https://github.com/martinwimpff/channel-attention) to ensure the reliability of our reproductions of the baseline methods.
 
 
 ## Contact
